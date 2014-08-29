@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/clear"
+        android:title="@string/clearAll"/>
+    <item
+        android:id="@+id/jbnt"
+        android:title="@string/jbntLayer"/>
+    <item
+        android:id="@+id/dltb"
+        android:title="@string/dltbLayer"/>
+    <item
+        android:id="@+id/tk"
+        android:title="@string/tkLayer"/>
+    <item
+        android:id="@+id/location"
+        android:title="@string/location"/>
+    <item
+        android:id="@+id/measureArea"
+        android:title="@string/measureArea"/>
+    <item
+        android:id="@+id/measureLength"
+        android:title="@string/measureLength"/>
+    <item
+        android:id="@+id/saveLoc"
+        android:title="@string/saveLoc"/>
+	<item
+        android:id="@+id/searchLoc"
+        android:title="@string/searchLoc"/>
+	<item
+        android:id="@+id/backupDatabase"
+        android:title="@string/backupDatabase"/>
+	<item
+        android:id="@+id/restroeDatabase"
+        android:title="@string/restroeDatabase"/>
+
+</menu>

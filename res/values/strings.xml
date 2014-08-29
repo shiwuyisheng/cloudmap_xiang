@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">云图</string>
+    <string name="viewhint">欢迎使用云图软件</string>
+    <!-- menu items -->
+    <string name="jbntLayer">基本农田</string>
+    <string name="tkLayer">顶层图块</string>
+    <string name="clearAll">清除所有</string>
+    <string name="dltbLayer">地类图斑</string>
+    <string name="measureArea">测量面积</string>
+    <string name="measureLength">测量距离</string>
+    <string name="location">GPS定位</string>
+    <string name="saveLoc">保存位置</string>
+    <string name="searchLoc">查找位置</string>
+    <string name="lvtitle">保存的位置</string>
+    <string name="backupDatabase">备份数据库</string>
+    <string name="restroeDatabase">恢复数据库</string>
+
+</resources>
